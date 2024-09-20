@@ -1,5 +1,5 @@
-import { Metadata } from 'next';
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 
 import { fetchInvoicesPages } from '@/app/lib/data';
 import { lusitana } from '@/app/ui/fonts';
